@@ -51,8 +51,6 @@ To comply with the course rubric, respect the Honor Code and prevent academic pl
 - dataset (images and metadata)
 - trained model files and checkpoints
 - full training scripts
-- hyperparameter configurations
-- intermediate logs and metrics 
 - Android APK or assets
 - any material enabling direct reuse of the project
 
