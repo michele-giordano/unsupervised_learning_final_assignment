@@ -21,7 +21,6 @@ images/
 
 docs/
 - MG-unsupervised_learning_final_notebook.pdf   
-- MG-unsupervised_learning_video_slides.pdf
 
 
 README.md
