@@ -27,9 +27,6 @@ README.md
 
 LICENSE
 
-requirements.txt
-
-
 ---
 
 ## Notebook
