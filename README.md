@@ -65,7 +65,6 @@ It allows readers to understand the methodology and architecture, while protecti
 
 ## Environment
 The original project used Python, PyTorch, scikit-learn, and common scientific libraries.  
-A minimal `requirements.txt` is included **for reference only**.
 
 ---
 
